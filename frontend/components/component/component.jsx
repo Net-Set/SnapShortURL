@@ -1,10 +1,10 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "../../components/uibutton"
 import Image from "next/image"
-import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "@/components/ui/card"
+import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "../../components/uicard"
 import ShortURL from "../ui/ShortURL"
 import Testimonial from "../ui/Testimonial";
 import UsageStatistics from "../ui/UsageStatistics";
-import { TabsTrigger, TabsList, TabsContent, Tabs } from "@/components/ui/tabs"
+import { TabsTrigger, TabsList, TabsContent, Tabs } from "../../components/uitabs"
 import { Input } from "../ui/input";
 
 export function Component() {

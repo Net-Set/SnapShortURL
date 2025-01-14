@@ -1,7 +1,7 @@
 import { Poppins } from 'next/font/google'
 import './globals.css'
-// import Header from '@/components/ui/header'
-// import Footer from '@/components/ui/footer'
+// import Header from '../../components/uiheader'
+// import Footer from '../../components/uifooter'
 // import HomePage from './Homepage/page'
 
 const poppins = Poppins({ subsets: ['devanagari'],weight:['400'] })

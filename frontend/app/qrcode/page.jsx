@@ -1,8 +1,8 @@
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { CardTitle, CardDescription, CardHeader, Card } from "@/components/ui/card"
-import Testimonial from "@/components/ui/Testimonial"
-import UsageStatistics from "@/components/ui/UsageStatistics"
+import { Button } from "../../components/uibutton"
+import { Input } from "../../components/uiinput"
+import { CardTitle, CardDescription, CardHeader, Card } from "../../components/uicard"
+import Testimonial from "../../components/uiTestimonial"
+import UsageStatistics from "../../components/uiUsageStatistics"
 
 export default function Component() {
   return (
