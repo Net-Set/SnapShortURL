@@ -1,12 +1,13 @@
-import { Component } from '@/components/component/component'
+// import { Component } from '@/components/component/component'
 import React from 'react'
+import HomePage from './Homepage/page'
 
 const page = () => {
   return (
     <div>
-      <Component />
+      <HomePage />
     </div>
   )
 }
 
-export default page
+export default page;
