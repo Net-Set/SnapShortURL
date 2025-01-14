@@ -1,9 +1,9 @@
-import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "../../components/uicard"
-import { Label } from "../../components/uilabel"
-import { Input } from "../../components/uiinput"
-import { Select } from "../../components/uiselect"
-import { Textarea } from "../../components/uitextarea"
-import { Button } from "../../components/uibutton"
+import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "../../components/ui/card"
+import { Label } from "../../components/ui/label"
+import { Input } from "../../components/ui/input"
+import { Select } from "../../components/ui/select"
+import { Textarea } from "../../components/ui/textarea"
+import { Button } from "../../components/ui/button"
 
 export default function Component() {
   return (

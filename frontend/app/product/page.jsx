@@ -1,5 +1,5 @@
-import { Button } from "../../components/uibutton"
-import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "../../components/uicard"
+import { Button } from "../../components/ui/button"
+import { CardTitle, CardDescription, CardHeader, CardContent, CardFooter, Card } from "../../components/ui/card"
 
 export default async function Component() {  
   return (

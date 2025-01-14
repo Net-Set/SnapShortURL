@@ -1,8 +1,8 @@
 'use client'
 import React, { useState } from 'react'
-import { Button } from "../../components/uibutton"
-import { Input } from "../../components/uiinput"
-import { Badge } from "../../components/uibadge"
+import { Button } from "../../components/ui/button"
+import { Input } from "../../components/ui/input"
+import { Badge } from "../../components/ui/badge"
 
 export default function ShortURL() {
     const [URL, setURL] = useState('');

@@ -1,8 +1,8 @@
 import Link from "next/link"
-import { Input } from "../../components/uiinput"
-import { Button } from "../../components/uibutton"
-import { Label } from "../../components/uilabel"
-import { Textarea } from "../../components/uitextarea"
+import { Input } from "../../components/ui//input"
+import { Button } from "../../components/ui/button"
+import { Label } from "../../components/ui/label"
+import { Textarea } from "../../components/ui/textarea"
 
 export default function Component() {
   return (

@@ -1,10 +1,10 @@
 'use client'
-import { Label } from "../../components/ui/label";
-import { Input } from "../../components/ui/input";
-import { Checkbox } from "../../components/ui/checkbox";
+import { Label } from "../../components/ui//label";
+import { Input } from "../../components/ui//input";
+import { Checkbox } from "../../components/ui//checkbox";
 import Link from "next/link";
 import { useForm } from 'react-hook-form';
-import { Button } from "../../components/ui/button";
+import { Button } from "../../components/ui//button";
 import { yupResolver } from "@hookform/resolvers/yup"
 import * as yup from "yup";
 import axios from 'axios';

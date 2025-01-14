@@ -1,6 +1,6 @@
 import Link from "next/link"
-import { Input } from "../../components/uiinput"
-import { Button } from "../../components/uibutton"
+import { Input } from "../../components/ui/input"
+import { Button } from "../../components/ui/button"
 
 export default function Component() {
     return (
